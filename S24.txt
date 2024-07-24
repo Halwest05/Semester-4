@@ -1,0 +1,283 @@
+GIT
+
+Enumerate anomalies of the biliary system:
+	1- Duplication of gallbladder
+	2- Biliary hypoplasia
+	3- Extrahepatic biliary atresia
+
+Write short notes about gallbladder:
+	Ans/ The gallbladder is a pear-shaped organ, which lies underneath the liver at the junction of the right and quadrate lobes, it acts as reservoir for bile which it concentrates up to 50mL of bile. 
+	The gallbladder composed of fundus, body and neck, which peritoneum fully sorrounds the fundus and binds body and neck to liver.
+
+Outcomes of H-Pylori:
+	1- Gastric cancer
+	2- Gastric ulcer
+	3- Gastritis
+	4- Peptic ulcer
+
+Write about anatomical surface and lining of abdominal wall:
+	1- Median Plane: Passes through the body, dividing it into left and right halves.
+	2- Transumblical Plane: Passes through the umbilcus and intervertebral discs between L3 and L4.
+
+Write short notes about anti-reflux mechanisms that prevent GERD:
+	* The Muscle of lower eso, just above the junction with stomach, is thickened and functions as sphincter.
+	* short portion os eso below the diaphragm has valve like action, it becomes curved during increased intra-abdominal pressure, preventing reflux of stomach content into eso.
+
+Enumerate factors keeping liver in place:
+	1- Peritoneal ligaments connecting liver to abdominal walls.
+	2- Intra-abdominal pressure maintained by tone of abdominal muscles.
+	3- Hepatic veins connecting liver to IVC.
+
+Enumerate features of small bowel on Plain radiography:
+	1- Solid feces: Absent
+	2- diameter: 3-5cm
+	3- radius of curvature: Small
+	4- Number of loops: many
+	5- Distribution of loops: Central
+
+Classify salivary glands according to their type of secretion:
+	1- Serous glands: mainly made of serous cells, secrete thin and watery saliva containing enzymes. (Parotid glands)
+	2- Mucous glands: mainly made of mucous cells, secrete thick, viscous saliva with high mucin content. (Sublingual glands)
+	3- Mixed glands: made of both serous and mucous cells. (Submandibular glands)
+
+Write short note about involutary stage of swallowing:
+	1- Pharyngeal stage: Food enters pharynx, swallowing receptors are stimulated, brain stem initiates series of automatic pharyngeal contractions.
+	2- Esophageal stage: Esophagus conduct food from pharynx to stomach. (9 sec), it has primary and secondary peristaltic movements (PM).
+
+Write short note about liver lobes classification:
+	* Liver lobes are classified in 2 ways
+
+	Anatomical lobes:
+		1- On diaphragmatic surface: The liver is divided into left and right, by attachment of falciform ligament.
+		2- On visceral surface: The liver is divided into 4 lobes (Right, left, caudate, quadrate) lobes.
+
+	Physiological lobes: The liver is divided into left and right lobes by an imaginary saggital plane.
+
+Enumerate 5 features of illium:
+	1- Position and length: 3.5m in length and is mostly in right lower quadrant.
+	2- Walls: Thin and less vascular
+	3- Lumen: Narrow (3.5 cm)
+	4- Villi: Low amount, short, thin
+	5- Mesentery: Attached below-right of aorta.
+
+Enumerate boundaries of inguinal canal:
+	1- Anterior: Obliquus interns abdominis
+	2- Posterior: Transverse fascia
+	3- Medial: Lacunar ligament
+	4- Roof: Transversus abdominis
+	5- Floor: Inguinal ligament
+
+Urinary System
+
+What are indication of the initiation of dialysis:
+	Ans/ Uraemic symptoms, fluid overload, acidosis, hyperkalemia, pericarditis
+
+Factors important in urinary K+ excretion:
+	1- Aldosterone secretion
+	2- Flow in distal tuble
+	3- Increase tubular sodium delivery
+	4- ADH
+	5- Alkalosis
+
+CT-KUB and CT-urography, how are they used in kidney disease:
+	Both are used in:
+	1- Investigation of renal and ureteric stone, assement of stone size and location.
+	2- Investigation of renal and ureteric tumor, differentiating between malignant or benign.
+	3- Detection of renal collection of pus.
+	4- Grading renal injuries.
+	5- Investigation of bladder tumor.
+
+Categorize hormones that act ON kidney:
+	1- ADH
+	2- Aldosterones
+	3- NPs (Natriuretic peptide hormones)
+	4- PTH (Parathyroid hormones)
+
+Write about neurological control of urinary bladder:
+	1- Sympathetic: Causes relaxation of detrusor muscle, promoting urine retention.
+	2- Parasympathetic: Causes contraction of detrusor muscle, stimulating micturition (Urination).
+	3- Somatic: Innervates external urethral sphincter, providing voluntary control over micturition.
+
+Genetic and epigenetic abnormalities may promote tumor development or growth in number of ways:
+	1- Activation of oncogenes encoding transcription factors.
+	2- Inactivation of tumor suppressor genes.
+	3- Overexpression of peptide growth factors.
+	4- Methylations or acetylations inactivating genes encoding detoxification enzymes.
+	5- Gene fusions
+	6- MicroRNA
+
+What is urinary tract host defence:
+	1- Urine:
+		* Acidic pH
+		* Mechanical flushing of urine flow
+
+	2- Mucosal immunity:
+		* Mucopolysaccharide lining increase difficuly for bacterial penetration.
+		* In men, prostatic secretion contain bactericidal zinc.
+
+Define paraneoplastic syndrome, categorize four paraneoplastic syndrome related to renal cell carcinoma:
+	Ans/ Paraneoplastic syndromes are due to ectopic hormone secretion by tumors.
+		Anemia %30, Hypertension %25, Polycythemia %5, Hypercalcemia %10-20
+
+Discuss RAS in pathogenesis of hypertension:
+	1- Reduced blood flow to kidneys, cause renin to be released, which converts angiotensinogen to angiotensin 1.
+	2- Angiotensin 1 converted to angiotensin 2 by ACE in lungs, A2 leads to increased blood pressure, increased Na+ resabsorption, stimulated release of aldosterone and adrenaline.
+	3- Angiotensin 2 inhibits renin release, forming a negative feedback loop, but in abnormal conditions this feedback loop is disrupted, causing A2 to be rapidly released.
+	4- Aldosterone promotes Na+ retention and K+ excretion, this increases blood volume, leading to even more hypertension.
+
+Label nephron and collecting system parts: Refer to the Renal Microanatomy Session.
+
+Psychology
+
+Define human diversity and its impact on healthcare:
+	Ans/ Human diversity encompasses variation in race, culture, language, gender, religion and other characteristics.
+		1- Health Disparities
+		2- Patient-Physician relationship
+		3- Health Beliefs and practices
+
+Main factors influencing health behavior:
+	1- Individual factors
+	2- Social factors
+	3- Enviromental factors
+
+Write about cognititve change of aging:
+	1- Memory: Aging is associated with changing in memory function, e.g. episodic memory loss.
+	2- Executive functioning: Older people may experience decline in problem-solving, decision making, cognitive flexibilty.
+	3- Wisdom: Deeper understanding of life by aging.
+
+Describe importance of compliance and adherence:
+	1- Treatment effectiveness: Non-compliance or poor adherence impacts treatment efficiency.
+	2- Patient Outcomes: Enhanced compliance and adherence leads to improved patient outcomes.
+	3- Healthcare resources: Optimal compliance and adherence contribute to efficient utilization of healthcare resources, preventing complications and reduced healthcare expenditure.
+
+Enumerate types of coping strategies with short note:
+	1- Problem-Focused Coping: Facing the problem and solving it, to cope with stress.
+	2- Emotion-Focused Coping: Seek emotional help to cope with stress, e.g. social support.
+	3- Avoidant coping: Avoiding the stressor.
+
+Write about key principles in behavioral theory:
+	1- Classical conditioning: Association of a neutral stimulus, to meaningful stimulus.
+	2- Operant conditioning: Focus on consequences of behavior, to strengthen or weaken future behavior.
+	3- Stimulus discrimination and generalizion:
+		Discrimination: Learning to respond differently to similar stimuli.
+		Generalization: Applying learned behavior to similar stimuli.
+
+Discuss ethical considerations in breaking bad news:
+	1- Truth telling: Provide honest and accurate information with respect to their preference of information delivery.
+	2- Cultural sensitivity: Respect cultural differences on how they react to bad news.
+	3- Privacy and confidentiality: Ensure patient privacy throughout the process of bad breaking news.
+
+Write about common paraphilias:
+	1- Exhibitionism: Exposure of ones genitals to public for sexual arousal.
+	2- Voyeurism: Observes other people engaging in sexual activities, to gain sexual arousal.
+	3- Fetishism: Sexual arousal from non living things. e.g. specific body parts
+	4- Sadomasochism: Engaging in sexual activities involving dominance or submission and infliction or receiving pain or humiliation.
+	5- Pedophilia: Sexual attraction to children.
+
+Describe styles of attachment in children:
+	A/ Secure attachments: Children feel safe and secure with their caregiver.
+	B: Insecure attachments:
+		1- Avoidant attachment: Children appear emotionally distant from their caregiver.
+		2- Anxious resistence: Children are very anxious and insecure.
+		3- Disorganized attachment: Children seem confused and anxious in presence of caregiver.
+
+Describe role of playing in cognitive, social and emotional development:
+	1- Cognitive development: Playing stimulates brain development and improves cognitive skills such as problem solving.
+	2- Social development: Playing provides opportunities for children to interact with others, teaching them essential social skills and co-operation.
+	3- Emotional development: Playing allows children to express and manage their emtions.
+
+Enumerate 4 types of dichotomies of MBTI:
+	1- Intraversion vs Extroversion
+	2- Sensing vs Intuition
+	3- Thinking vs Feeling
+	4- Judging vs Perceiving
+
+Respiratory System
+
+Enumerate upper respiratory and lower respiratory system:
+	Upper Tract:
+		1- Nasal cavity
+		2- Pharynx
+		3- Larynx
+	Lower Tract:
+		1- Trachea
+		2- Main Bronchi
+		3- Bronchiole
+		4- Alveoli
+
+Natural defence of respiratory system against infection:
+	1- Nasal Hairs
+	2- Coughing and sneezing reflex
+	3- Lymphoid follicles of pharynx and tonsils
+	4- Ciliated columnar epithelium 
+	5- Alveolar macrophages
+
+Mention BCG vaccine and its role:
+	Ans/ BCG is a vaccine against tuberculosis that is prepared from a strain of Attenuated live bovine tuberculosis bacillus, Efficacy lasts at most 15 years.
+
+Describe asthma in children and their characterstics:
+	Ans/ Asthma is a chronic inflammatory disorder of the airways, characterstics:
+		1- Chronic inflammation
+		2- Susceptibility
+		3- Variable airflow obstruction
+		4- Airway hyper-responsiveness
+		5- Reversibility
+
+Define bronchoscopy:
+	Ans/ Bronchoscopy is used in diagnosis of bronchial carcinoma, to visualize tumors and obtain a tissue sample for histology.
+
+Clarify the thoracic ribs attachment the sternum:
+	1- True ribs (1-7): Attach directly to sternum via their own cartilages.
+	2- False ribs (8-10): Attach to sternum via cartilage of the rib above them.
+	3- Floating ribs (11-12): Not connected to sternum.
+
+Define dead space in lungs:
+	Ans/ It refers to portion of lung where air does not participate in gas exchange with blood, it includes both anatomical and alveolar dead space.
+
+Enumerate factors that are changing during ventilation:
+	1- Tidal volume
+	2- Respiratory rate
+	3- Quiet vs forced breathing
+
+Mention characterstics of pulmonary circulation:
+	1- Low resistance
+	2- Low pressure
+	3- Recieves entire cardiac output.
+
+How hyperventilation cause tetany:
+	Ans/ Hyperventilation cause decrease in CO2 so pH increases, Ca2+ is soluble in acid, so with pH increasing Ca2+ cannot remain in blood, causing nerve hyperexcitability leading to tetany.
+
+Define hypoxia and its types:
+	Hypoxia is decreased oxygen levels in tissues, types:
+		1- Hypoxemic hypoxia: decreased breathable O2.
+		2- Anemic hypoxia: decreased functional Hb.
+		3- Stagnant hypoxia: decreased blood flow - heart failure
+		4- Histotoxic hypoxia: Unable to make use of O2.
+
+Hb O2 dissociation curve with temperature and pH:
+	1- Increasing temp decrease affinity Hb for O2, so dissociation curve shifts to right
+	2- Increasing pH increase affinity Hb for O2, so dissociation curve shifts to left
+
+I-I
+
+Write about virulence factor of bacteria:
+	1- Antimicrobial resistence
+	2- Exotoxins
+	3- Flagella
+	4- Polysaccharide capsules
+	5- Serum resistance
+
+Enumerate ways of preventing microbial microbiota that may cause hospital acquired infection:
+	A: Exogenously acquired infections:
+		1- Hand hygiene
+		2- High standards of enviromental cleanliness
+		3- Judicious antibiotic prescribing
+		4- Disposable gowns, aprons and gloves
+		5- Sterile surgical instruments
+	B: Endogenously acquired infections
+		1- Disinfection of skin
+		2- Prophylaxis
+
+Compare briefly between antigen drift and antigen shift and their playing viral evolution and immune evasion:
+	1- Antigenic drift: Accumulation of point mutations on viral surface resulting in new strain.
+	2- Antigenic shift: Results in new subtype of virus.

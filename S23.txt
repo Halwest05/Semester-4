@@ -1,0 +1,169 @@
+Respiratory System
+
+Main respiratory disease signs and symptoms:
+	1- Dyspnea
+	2- Chest pain
+	3- Coughing and wheezing
+	4- Sputum production
+	5- Hemoptysis
+
+What is cardiothoracic ratio:
+	Ans/ Widest part of heart and ribcage is meassured laterally, if heart is %50 of thorax width, its enlarged.
+
+What is cardiac index:
+	Ans/ Provides cardiac output efficiency, regarding body size and cardiac output.
+
+Define aspiration penumonia:
+	Ans/ Aspiration of food, drinks, etc... causing pneumonia, happens more in individuals whose level of consciousness is altered.
+
+Define tidal volume:
+	Ans/ Represets the amount of air inhaled or exhaled during inspiration or expiration respectively.
+
+Describe parts of sternum:
+	1- The manubrium: articulates with 1st and part of 2nd coastal cartilages.
+	2- The body: Articulates with part of 2nd, until 7th coastal cartilages.
+	3- The xiphisternum: Remains cartilagenous into adult life.
+
+Describe mechanisms gasses dissolving in water:
+	1- Gas molecules enter water
+	2- They excert tension into the water.
+	3- At equilibrium, tension same as partial pressure of gas.
+
+Urinary system
+
+Explain stages of chronic kidney disease:
+	1- Stage 1: Kidney damage with normal kidney function. (90 or higher GFR)
+	2- Stage 2: Kidney damage with mild loss of kidney function. (60-89 GFR)
+	3- Stage 3: Kidney damage with moderate loss of kidney function. (30-59 GFR)
+	4- Stage 4: Kidney damage with severse loss of kidney function. (15-29 GFR)
+	5- Stage 5: Kidney failure. (GFR less than 15)
+
+Write about risk factor of chronic kidney disease (failure):
+	1- Diabetes
+	2- High blood pressure
+	3- Obesity
+	4- Aging
+	5- Family history of kidney failure
+	6- Hispanic, Asian
+
+Mechanism action of loop diuretics:
+	1- Loop diuretics act primarily on thick ascending limb of the loop of henle.
+	2- Inhibits NKCC2 Transporter, this transporter is responsible for reabsorbing Na+/K+/2Cl-. 
+	3- By blocking the transporter, the electrolytes will be excreted.
+	4- This reduces osmotic gradient, thus less water will be reabsorbed.
+	5- With less blood volume, less bp will be achieved.
+
+Write briefly about risk factor of calcium based stone:
+	1- Excessive excretion of calcium, oxalate, uric acid.
+	2- Factors that cause insolubility. e.g. insufficient citrate excretion, it forms soluble complex with calcium.
+	3- Concentrated urine
+	4- Abnormal urinary tract
+	5- Renal tubular acidosis
+
+Mention blood supply for bladder:
+	Ans/ The bladder is mainly supplied by (Superior, middle, inferior vesical arteries), also uterine and vaginal arteries in females.
+
+Enumerate types of urinary incontinence:
+	1- Stress urinary incontinence
+	2- Urge urinary incontinence
+	3- Mixed Urinary incontinence
+	4- Insensible incontinence
+	5- Nocturnal enuresis
+
+What is Chronic kidney disease/failure:
+	Ans/ Chronic kidney disease/failure is a progressive and irreversible loss of renal function or GFR decrease for at least 3 months.
+
+Define uses of ultrasound:
+	1- Determine the presence of hydronephrosis.
+	2- Determine the nature of renal masses.
+	3- Evaluation of renal stone, characterized by acoustic shadow.
+	4- Evaluation of urinary retention.
+	5- Allows ultrasound guided intervention.
+	6- Assessment of hematuria
+
+Main causes of hyperkalemia:
+	1- Chronic kidney disease
+	2- K+ rich diets
+	3- Hypoaldosteronism
+	4- Addison disease
+	5- Lactic acidosis
+
+Advantages of hemodialysis:
+	1- Effective
+	2- 4/7 free days from treatment
+	3- Dialysis dose easily prescribed
+
+Disadvantages of hemodialysis:
+	1- Diet Restriction
+	2- Limits holidays
+	3- Access problems
+	4- High cost
+	5- CVS instability
+
+Label juxtaglomerular parts: Refer to microanatomy session.
+
+GIT
+
+Dif between omphalocele and gastroschisis:
+	Feature			Omphalocele		Gastroschisis
+
+	Site of defect		Central umbilical	Right paraumbilical
+	Sac			Always present		Never present
+	Gender			Frequent in female	Equal
+	Intestinal atresia	Rare			Up to %10
+	Associated anomalies	Frequent		Rare
+
+Write about voluntary stage of swallowing:
+	Ans/ Chewing the food, and rolling it back into pharynx by tongue pressure. 	
+
+Write short note about salivary secretion regulation:
+	Ans/ Salivary secretion is regulated by autonomic nervous system, supplied by sympathetic fibers and parasympathetic fibers:
+		1- Stimulation of sympathetic fibers cause secretion of saliva rich in organic constituents such as mucus, and cause vasoconstriction.
+		2- Stimulation of parasympathetic fibers cause secretion of saliva rich in water, causes vasodilation.
+
+Enumerate parts of midgut:
+	1-Small intestine
+	2- Cecum
+	3- Appendix
+	4- Ascending colon
+	5- Right 2/3 of transverse colon
+
+Stages in development of esophagus:
+	1- Elongation occurs during 2nd month.
+	2- Recanalization occurs during 3rd month.
+	3- Differentiation of stratified squamous epithelium occurs during 4th month.
+	4- Induction of muscle formation in splanchnic mesoderm occurs during 2nd month, initially only smooth muscle forms.
+	5- Trans-differentiation of smooth muscle to skeletal muscle occurs in the upper two-thirds of esophagus.
+
+Write blood supply to stomach:
+	Ans/ (Right, left, short) gastric artery
+
+Extra-intestinal manifestation of IBD:
+	1- They may precede GI symptoms.
+	2- Most common symptoms: Oral aphthous ulcers, arthralgia, backpain
+	3- Eye symptoms: uveitis, scleritis etc...
+	4- Skin manifestation
+	5- Liver manifestation
+
+Areas of liver not covered by peritoneum:
+	1- Bare area of liver
+	2- Gallbladder fossa
+	3- Groove for IVC
+	4- Groove for ligamentum venosum
+	5- Porta hepatis
+
+Complications of peptic ulcer disease:
+	1- Bleeding
+	2- Perforation of ulcer
+	3- Pyloric Obstruction
+	4- Penetration
+
+Function of ileocecal valve:
+	1- Prevent backflow of colonic contents into SI.
+	2- Resists back pressure of 60 cm water.
+	3- Allows emptying of ileal contents into the cecum.
+
+Function of large intestine:
+	1- Reabsorption of water and electrolytes, and compacting intestinal contents into feces.
+	2- Absorption of important vitamins produced by bacterial action.
+	3- Storing fecal material before defecation.
